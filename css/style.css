@@ -1,0 +1,44 @@
+/**
+ * @author Luca Bonaldo <info@lucabonaldo.it>
+ */
+div.select-content 
+{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  width: auto;
+}
+
+div.select-content div
+{
+  padding: 0px;
+  display: block;
+}
+
+div.select-content div label
+{
+  margin-left: 10px;
+}
+
+div.select-content div select
+{
+  border: 1px solid gray;
+  padding:6px;
+  margin-bottom: 6px;
+  margin-top: 6px; 
+  width: 190px;
+  min-height: 34px;
+  height: auto;
+  color: #444;
+  -moz-border-radius:6px;
+  -khtml-border-radius:6px;
+  -webkit-border-radius:6px;
+  background-color: #F2F2F2;
+  font-family:georgia,verdana,Arial,sans-serif;
+}
+
+div.select-content div select option
+{
+
+}
+
